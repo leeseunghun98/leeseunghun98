@@ -1,8 +1,4 @@
-
-
-
-
-## Skills 및 Projects
+# Projects & Stack
 
 ### [Reservation App](https://github.com/leeseunghun98/Reservation_Application)
 
