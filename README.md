@@ -10,7 +10,7 @@
 
 ### [Deep Learning](https://github.com/leeseunghun98/Deep-learning)
 
-사용 skills : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"> 
+사용 skills : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
 
 
 Extra : <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/C Sharp-FFFFFF?style=flat&logo=C Sharp&logoColor=239120">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
