@@ -14,3 +14,5 @@
 
 
 etc : <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/C Sharp-FFFFFF?style=flat&logo=C Sharp&logoColor=239120">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vs6641)](https://solved.ac/vs6641/)
