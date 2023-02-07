@@ -12,7 +12,7 @@
 
 사용 skills : <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
 
-### [WeatherForecast-Application](https://github.com/leeseunghun98/Movie-App)
+### [Movie-App](https://github.com/leeseunghun98/Movie-App)
 
 진행중
 
