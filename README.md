@@ -1,4 +1,4 @@
-# Projects & Stack
+# Projects
 
 ### [Reservation App](https://github.com/leeseunghun98/Reservation_Application)
 
