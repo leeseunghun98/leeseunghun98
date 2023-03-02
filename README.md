@@ -19,4 +19,6 @@
 
 etc : <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/C Sharp-FFFFFF?style=flat&logo=C Sharp&logoColor=239120">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
+![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Jongwon-0518&theme=tokyonight&layout=compact&card_width=300&include_forks=true&hide=Jupyter%20notebook&langs_count=10)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vs6641)](https://solved.ac/vs6641/)
